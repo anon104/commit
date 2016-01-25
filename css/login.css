@@ -1,0 +1,28 @@
+body {
+	background-color: #500000;
+}
+
+#content_wrapper {
+	width: 600px;
+	height: 400px;
+	margin: auto;
+	margin-top: 10%;
+	background-color: #eecccc;
+	border-radius: 20px;
+}
+
+#content {
+	margin: 20px;
+	width: 560px;
+	height: 360px;
+	position: relative;
+	top: 30px;
+}
+
+#logo_wrapper {
+	height: 100px;
+}
+
+img {
+	height: 100%;
+}
